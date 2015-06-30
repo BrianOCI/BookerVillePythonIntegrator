@@ -6,7 +6,7 @@ from BeautifulSoup import BeautifulSoup
 
 # BookerVille Python API Integrator
 #  This file will provide the skeleton for the python API that will integrate with BookerVille
-#  All rights Reserved - MIT Licensced
+#  All rights Reserved - MIT Licensed
 #   John Peurifoy (Please send comments or suggestion to johnpeurifoy@yahoo.com)
 
 # A Class that represents an individual property that is returned by Summary
